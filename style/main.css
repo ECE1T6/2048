@@ -345,6 +345,7 @@ hr {
     color: #f9f6f2;
     background-color: #f59563; 
 		background-image: url('/img/hamid.png');
+		background-size:140px;
 	}
   
 	.tile.tile-32 .tile-inner {
