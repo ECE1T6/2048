@@ -180,14 +180,14 @@ hr {
       font-weight: bold;
       height: 60px;
       line-height: 60px;
-      margin-top: 222px; }
+      margin-top: 160px; }
     .game-container .game-message .lower {
       display: block;
-      margin-top: 59px; }
+      margin-top: 135px; }
     .game-container .game-message a {
       display: inline-block;
       background: #8f7a66;
-      border-radius: 3px;
+      border-radius: 7px;
       padding: 0 20px;
       text-decoration: none;
       color: #f9f6f2;
