@@ -339,6 +339,7 @@ hr {
     color: #f9f6f2;
     background-color: #f2b179; 
 		background-image: url('/img/weiss.png');
+		background-size:130px;
 	}
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
