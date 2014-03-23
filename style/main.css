@@ -416,6 +416,7 @@ hr {
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
 		background-image: url('/img/thesine.png');
+		background-size: 80px;
     background-color: #3c3a32;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
